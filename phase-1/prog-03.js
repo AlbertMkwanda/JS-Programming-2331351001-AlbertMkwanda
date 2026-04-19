@@ -4,7 +4,7 @@
 // ================================================ 
 // STUDENT FULL NAME: [Your Complete Legal Name] 
 // STUDENT ID NUMBER: [Your Institution ID] 
-// PROGRAM NUMBER: [XX] - [Program Title] 
+// PROGRAM NUMBER: 03 - Variables with var, let, and const 
 // EXECUTION DATE: [Will be auto-generated] 
 // SESSION TOKEN: [Will be auto-generated] 
 // ================================================ 
@@ -13,7 +13,7 @@ console.log("=".repeat(55));
 console.log("JAVASCRIPT PROGRAMMING LABORATORY - VERIFIED EXECUTION"); 
 console.log("STUDENT: Albert Mkwanda"); 
 console.log("ID: 2331351001"); 
-console.log("PROGRAM: Variable Declarations"); 
+console.log("PROGRAM: Variables with var, let, and const"); 
 console.log("EXECUTION DATE: " + new Date().toLocaleString()); 
 console.log("SESSION TOKEN: " + Math.random().toString(36).substring(2, 15).toUpperCase()); 
 console.log("VERIFICATION HASH: " + btoa("2331351001" + Date.now()).substring(0, 12)); 
@@ -21,12 +21,17 @@ console.log("=".repeat(55));
 console.log(""); 
 // ================================================ 
 // PROGRAM CODE BEGINS BELOW 
-// ================================================
+// ================================================ 
 
 // Program 3: Variable declarations and scope differences 
 // var - function scoped (older way) 
-var oldWay = "This is Var value"; 
+var oldWay = "I am declared with var"; 
 console.log("var variable:", oldWay); 
 // let - block scoped (modern way) 
-let modernWay = "This is Let value"; 
-console.log("let variable:", modernWay);
+let modernWay = "I am declared with let"; 
+console.log("let variable:", modernWay); 
+// const - cannot be reassigned 
+const constantValue = "I cannot change"; 
+console.log("const variable:", constantValue); 
+// Uncommenting below line would cause error: 
+// constantValue = "New value"; // TypeError: Assignment to constant
