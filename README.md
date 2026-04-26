@@ -26,12 +26,22 @@ All programs are located in the `phase-1/` directory:
 | 07 | `prog-07.js` | Comparison Operators |
 | 08 | `prog-08.js` | Logical Operators |
 | 09 | `prog-09.js` | Type Coercion and Conversion |
-| 10 | `prog-10.js` | Object Properties and Access |
-| 11 | `prog-11.js` | Calculator Functions |
-| 12 | `prog-12.js` | Date and Time Display |
-| 13 | `prog-13.js` | Nested Loops and Pattern Printing |
-| 14 | `prog-14.js` | Boolean Logic and Comparison |
-| 15 | `prog-15.js` | Geometry Calculations |
+| 10 | `prog-10.js` | User Input with prompt() |
+| 11 | `prog-11.js` | If-Else Statement |
+| 12 | `prog-12.js` | Nested If-Else |
+| 13 | `prog-13.js` | Switch Statement |
+| 14 | `prog-14.js` | For Loop - Basic Iteration |
+| 15 | `prog-15.js` | Nested For Loops |
+| 16 | `prog-16.js` | While Loop |
+| 17 | `prog-17.js` | Do-While Loop |
+| 18 | `prog-18.js` | Break and Continue |
+| 19 | `prog-19.js` | Error Handling with Try-Catch |
+| 20 | `prog-20.js` | Custom Error Type
+| 16 | `prog-16.js` | While Loop |
+| 17 | `prog-17.js` | Do-While Loop |
+| 18 | `prog-18.js` | Break and Continue |
+| 19 | `prog-19.js` | Error Handling with Try-Catch |
+| 20 | `prog-20.js` | Custom Error Types |
 
 ## How to Run
 
