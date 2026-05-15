@@ -7,11 +7,11 @@
 
 ## Project Overview
 
-This repository contains **20 foundational JavaScript programs** covering essential concepts for web development. Each program is self-contained, documented, and includes a verification header for academic integrity.
+This repository contains **40 foundational JavaScript programs** covering essential concepts for web development. Each program is self-contained, documented, and includes a verification header for academic integrity.
 
 ## Program Directory
 
-### Phase 1: JavaScript Fundamentals
+### Phase 1: JavaScript Fundamentals (Programs 1-20)
 
 All programs are located in the `phase-1/` directory:
 
@@ -36,12 +36,34 @@ All programs are located in the `phase-1/` directory:
 | 17 | `prog-17.js` | Do-While Loop |
 | 18 | `prog-18.js` | Break and Continue |
 | 19 | `prog-19.js` | Error Handling with Try-Catch |
-| 20 | `prog-20.js` | Custom Error Type
-| 16 | `prog-16.js` | While Loop |
-| 17 | `prog-17.js` | Do-While Loop |
-| 18 | `prog-18.js` | Break and Continue |
-| 19 | `prog-19.js` | Error Handling with Try-Catch |
 | 20 | `prog-20.js` | Custom Error Types |
+
+### Phase 2: Advanced JavaScript Concepts (Programs 21-40)
+
+All programs are located in the `phase-2/` directory:
+
+| # | Program | Topic |
+|---|---------|-------|
+| 21 | `prog-01.js` | Function Declarations |
+| 22 | `prog-02.js` | Function Expressions and Hoisting |
+| 23 | `prog-03.js` | Arrow Functions |
+| 24 | `prog-04.js` | Parameters and Default Values |
+| 25 | `prog-05.js` | Scope and Closures |
+| 26 | `prog-06.js` | Callback Functions |
+| 27 | `prog-07.js` | Higher-Order Functions |
+| 28 | `prog-08.js` | Recursive Functions |
+| 29 | `prog-09.js` | Immediately Invoked Function Expressions (IIFE) |
+| 30 | `prog-10.js` | Call, Apply, and Bind |
+| 31 | `prog-11.js` | Object Literals |
+| 32 | `prog-12.js` | Object Methods and 'this' Keyword |
+| 33 | `prog-13.js` | Constructor Functions |
+| 34 | `prog-14.js` | Prototypes and Prototypal Inheritance |
+| 35 | `prog-15.js` | ES6 Classes - Basic Syntax |
+| 36 | `prog-16.js` | ES6 Classes - Inheritance with Extends |
+| 37 | `prog-17.js` | Object.create() and Pure Prototypal Inheritance |
+| 38 | `prog-18.js` | Property Descriptors and Object.defineProperty() |
+| 39 | `prog-19.js` | Object Methods - Keys, Values, Entries, Assign |
+| 40 | `prog-20.js` | Getters, Setters, and Computed Properties |
 
 ## How to Run
 
