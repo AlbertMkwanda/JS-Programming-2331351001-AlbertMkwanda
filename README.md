@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This repository contains **40 foundational JavaScript programs** covering essential concepts for web development. Each program is self-contained, documented, and includes a verification header for academic integrity.
+This repository contains **60 foundational JavaScript programs** across three phases, covering essential concepts for web development and DOM manipulation. Each program is self-contained, documented, and includes a verification header for academic integrity.
 
 ## Program Directory
 
@@ -65,7 +65,32 @@ All programs are located in the `phase-2/` directory:
 | 39 | `prog-19.js` | Object Methods - Keys, Values, Entries, Assign |
 | 40 | `prog-20.js` | Getters, Setters, and Computed Properties |
 
-## How to Run
+### Phase 3: DOM Manipulation and Advanced JavaScript (Programs 41-60)
+
+All programs are located in the `phase-3/` directory:
+
+| # | Program | Topic |
+|---|---------|-------|
+| 41 | `prog-01.js` | Array Creation and Basic Methods |
+| 42 | `prog-02.js` | Array Iteration Methods |
+| 43 | `prog-03.js` | Array Transformation Methods |
+| 44 | `prog-04.js` | Array Search Methods |
+| 45 | `prog-05.js` | Array Modification Methods |
+| 46 | `prog-06.js` | Array Sorting and Reversing |
+| 47 | `prog-07.js` | Multidimensional Arrays |
+| 48 | `prog-08.js` | Array Spread Operator and Destructuring |
+| 49 | `prog-09.js` | Array.from() and Array.of() |
+| 50 | `prog-10.js` | Array-like Objects and Conversion |
+| 51 | `prog-11.js` | DOM Selection Methods |
+| 52 | `prog-12.js` | DOM Content Manipulation |
+| 53 | `prog-13.js` | DOM Attributes and Classes |
+| 54 | `prog-14.js` | DOM Element Creation and Removal |
+| 55 | `prog-15.js` | DOM Events - Basic |
+| 56 | `prog-16.js` | Event Propagation and Delegation |
+| 57 | `prog-17.js` | String Methods and Manipulation |
+| 58 | `prog-18.js` | Regular Expressions Basics |
+| 59 | `prog-19.js` | JSON and Object Serialization |
+| 60 | `prog-20.js` | Error Handling and Debugging |
 
 ### Prerequisites
 - Node.js or any modern JavaScript runtime (browser console)
@@ -112,7 +137,7 @@ All programs follow a consistent format:
 
 ## Learning Outcomes
 
-Upon completing these 15 programs, you will understand:
+Upon completing all 60 programs, you will understand:
 
 ✓ Console output and basic JavaScript syntax  
 ✓ Comments and code documentation  
@@ -123,12 +148,26 @@ Upon completing these 15 programs, you will understand:
 ✓ Comparison operators and truthiness  
 ✓ Logical operators and boolean logic  
 ✓ Type coercion and explicit conversion  
-✓ Working with objects and properties  
+✓ Control flow structures and loops  
 ✓ Functions and return values  
-✓ Date/time operations  
-✓ Loops and nested control structures  
-✓ Complex boolean expressions  
-✓ Mathematical calculations and geometry  
+✓ Function scope, closures, and hoisting  
+✓ Arrow functions and higher-order functions  
+✓ Objects, prototypes, and inheritance  
+✓ ES6 classes and OOP principles  
+✓ Array creation and manipulation methods  
+✓ Array iteration and transformation (map, filter, reduce)  
+✓ Array searching and sorting techniques  
+✓ Multidimensional arrays  
+✓ Array destructuring and spread operators  
+✓ DOM selection and querying  
+✓ DOM content manipulation and styling  
+✓ Working with attributes and classes  
+✓ Creating and removing DOM elements  
+✓ Event handling and listeners  
+✓ Event propagation and delegation  
+✓ String methods and regular expressions  
+✓ JSON serialization and deserialization  
+✓ Error handling and debugging techniques  
 
 ## File Structure
 
@@ -136,12 +175,24 @@ Upon completing these 15 programs, you will understand:
 JS-Programming-2331351001-AlbertMkwanda/
 ├── README.md
 ├── index.html
-└── phase-1/
+├── phase-1/
+│   ├── prog-01.js
+│   ├── prog-02.js
+│   ├── prog-03.js
+│   ├── ...
+│   └── prog-20.js
+├── phase-2/
+│   ├── prog-01.js
+│   ├── prog-02.js
+│   ├── prog-03.js
+│   ├── ...
+│   └── prog-20.js
+└── phase-3/
     ├── prog-01.js
     ├── prog-02.js
     ├── prog-03.js
     ├── ...
-    └── prog-15.js
+    └── prog-20.js
 ```
 
 ## Notes
